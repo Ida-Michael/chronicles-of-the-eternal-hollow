@@ -80,7 +80,7 @@ Two-person team project.
 - **Menus:** designed and implemented the start and pause menus with the animated button widget (`WBP_MasterButton`), and designed the logo, font and menu backdrop
 - **Story:** wrote the final scroll shown after victory and its text formatting
 
-### Jakob [surname]
+### Jakob Amstätter-Z.
 - **Cave:** created the cave level, sculpted the cave and its walls, cut the ceiling opening, and set up the lighting, decorations and rock texture
 - **Fake sky:** implemented the video skybox visible through the cave ceiling
 - **Guiding light:** designed the guiding orb, its spline movement and its particles
