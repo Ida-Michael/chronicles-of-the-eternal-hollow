@@ -2,9 +2,9 @@
 
 A third-person time-loop game built in **Unreal Engine 5.6**. The player faces the same boss again and again, and every death reveals more of the story and the knowledge needed to win the next attempt.
 
-Created as a team final project for [course name], [university], [semester].
+Created as a team final project for Multimedia, TU Wien, 2026S.
 
-**Gameplay video:** [Link]
+**Gameplay video:** [(https://youtu.be/ZZ8YNv5eQKM)]
 
 ![Gameplay](docs/Gameplay.png)
 
